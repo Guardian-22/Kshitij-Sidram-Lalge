@@ -14,25 +14,22 @@
 
 ## 🧠 Tech Stack
 
+
 Languages & Libraries
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![uv](https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white)
 
-Python, NumPy, Pandas, Matplotlib
 
-PyTorch, TensorFlow, Scikit-learn
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)  
+![Roboflow](https://img.shields.io/badge/Roboflow-7952B3?style=for-the-badge&logo=roboflow&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  
+![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
-Computer Vision & Detection
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-YOLO (v8, v10, v11), OpenCV, Roboflow, PaddleOCR
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-Working on multi-model CV pipelines (detection + segmentation + OCR)
-
-Web & Deployment
-
-FastAPI, Flask
-
-React, Node.js, MongoDB
-
-Git, GitHub, Docker (learning)
 
 ## 📬 Connect With Me
 
